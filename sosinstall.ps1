@@ -1,2 +1,1 @@
-Set-Location D:\sos\install
-Start-Process '.\SOS Install.bat'
+Start-Process '\\vm-dpg-app-1\sos\Install\SOS Install.bat'
